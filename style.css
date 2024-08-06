@@ -96,6 +96,7 @@ footer {
     margin-left: 150px;
     font-family: "Courier New", Courier, monospace;
     font-weight: bolder;
+    text-align: left;
 }
 
 .navbar {
