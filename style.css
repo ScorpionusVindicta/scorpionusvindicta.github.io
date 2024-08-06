@@ -69,6 +69,10 @@ footer {
 */
 
 
+.middle {
+    text-align: center;
+}
+
 .img-nav {
     padding: 20px;
     height: 90px; 
