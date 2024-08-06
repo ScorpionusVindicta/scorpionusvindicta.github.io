@@ -38,11 +38,13 @@ body {
 p {
     overflow: hidden;
     margin-left: 25px;
+    text-align: center;
 }
 
 h1 {
     overflow: hidden;
     background-color: #7D4698;
+    text-align: center;
 }
 
 a {
