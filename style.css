@@ -91,12 +91,10 @@ footer {
     font-family: 'Courier New', Courier, monospace;
     font-size: xx-large;
     font-weight: bolder;
-    margin-left: 100px;
 }
 
 .title {
     font-size: 75px;
-    margin-left: 150px;
     font-family: "Courier New", Courier, monospace;
     font-weight: bolder;
     text-align: left;
