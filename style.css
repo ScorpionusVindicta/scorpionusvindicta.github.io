@@ -228,6 +228,15 @@ body.dark-mode {
 
 
 @media screen and (max-width: 600px) {
+        
+    .title {
+        font-size: 75px;
+        margin-left: 150px;
+        font-family: "Courier New", Courier, monospace;
+        font-weight: bolder;
+        text-align: center;
+    }
+        
     .nav-menu {
         display: none;
         flex-direction: column;
